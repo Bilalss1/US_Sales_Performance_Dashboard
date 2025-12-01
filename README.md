@@ -16,18 +16,15 @@ The dashboard is built entirely in Excel using pivot tables, calculated fields a
 
 ---
 
-## Dashboard Preview
-
 <img width="1600" height="776" alt="Furniture sales overview" src="https://github.com/user-attachments/assets/62a12ccf-927b-4a16-8979-4563ccaaf487" />
 
 ---
 
-## Files in this Repository
+## Dashboard Demo
 
-- `USA_Sales_analysis_dashboard.xlsx` – full Excel workbook with data model and dashboard.
-- `Furniture_sales_overview.png` – static image of the final dashboard.
+Click below to watch the interactive Excel dashboard in action:
 
-(If you add a video demo later, you can link it here as well.)
+[🎥 Download Dashboard Video](video.mp4)
 
 ---
 
