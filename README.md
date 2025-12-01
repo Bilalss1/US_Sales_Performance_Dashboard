@@ -24,7 +24,7 @@ The dashboard is built entirely in Excel using pivot tables, calculated fields a
 
 Click below to watch the interactive Excel dashboard in action:
 
-[🎥 Download Dashboard Video](video.mp4)
+[🎥 Download Dashboard Video](Video.mp4)
 
 ---
 
